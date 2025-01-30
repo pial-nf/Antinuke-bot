@@ -7,7 +7,7 @@ module.exports = {
     },
 
     TOKEN: "MTMzNDU0NzEzNjk4OTIzNzQ2Mw.GBVHHP.WrBnBDhE7HgJCye0Rm3X6rWctjSo3mfNB2Q9Ck" || process.env.TOKEN, //Your Bot Token
-    MONGO_URI: "" || process.env.MONGO_URI, //Mongo Uri
+    MONGO_URI: "mongodb+srv://shivashiva@musicbot.ty0ul.mongodb.net/?retryWrites=true&w=majority" || process.env.MONGO_URI, //Mongo Uri
     EMBED_COLOR: "#FFFF00" || process.env.EMBED_COLOR, //Embed Color
     DEV_ID: "713758139425751150" || process.env.DEV_ID, //Developer ID
     OWNER_ID: "713758139425751150" || process.env.OWNER_ID, //Owner ID
